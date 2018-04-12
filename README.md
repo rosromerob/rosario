@@ -1,0 +1,2 @@
+# rosario
+Exercise: Describe yourself
